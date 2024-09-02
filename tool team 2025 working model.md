@@ -5,8 +5,10 @@
 
 1. Team A/B 取消
 2. Module/Taskforce 轮换 (可根据实际情况调整比例)
-3. 
+	- **定期轮换**任务，让每个成员都有机会接触不同类型的工作，避免某些成员长期承担高负荷任务。
+3. 任务透明化和量化
+	- 确保所有任务的透明化和量化，使每个人都清楚每个任务的**工作量**和**复杂度。**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDU0OTQyOCwtNzk1ODQyNzYzLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNDEwOTg5Mzg1LC0xNjQ1NDk0MjgsLTc5NT
+g0Mjc2Myw3MzA5OTgxMTZdfQ==
 -->
