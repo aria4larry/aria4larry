@@ -10,7 +10,12 @@
 
 5. 任务透明化和量化
 	- 确保所有任务的透明化和量化，使每个人都清楚每个任务的**工作量**和**复杂度。**
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTAyMDY4OCwtMTI4NDE1MjY2MywtMT
-Y0NTQ5NDI4LC03OTU4NDI3NjMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY4OTU1NjEzNiwtMzA1MDIwNjg4LC0xMj
+g0MTUyNjYzLC0xNjQ1NDk0MjgsLTc5NTg0Mjc2Myw3MzA5OTgx
+MTZdfQ==
 -->
