@@ -6,6 +6,7 @@
 ## Agenda
 
 ### Announcement
+* PMD 11.6开始, 注意自己的AOP
 ### Action Update
 NA
 ### Feature Status (CI Coordinator) 
@@ -23,5 +24,5 @@ NA
  - EAC (Huan Tan)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzkwMDE4NV19
+eyJoaXN0b3J5IjpbMTcyNTU0NzE1NV19
 -->
