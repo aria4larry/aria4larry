@@ -14,6 +14,7 @@ NA
 
  - Feature/Issue Progress 
  - High Risk Task Discussion 
+	 - 之后会议资料需要根据Effort列出有Risk的Item，而不是等到月底（Pingshui）
  - Important Project Status
 
 ### Personal Task Share
@@ -25,5 +26,5 @@ NA
  - EAC (Huan Tan)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODAyMjQzMV19
+eyJoaXN0b3J5IjpbMTY3NDU4NTcxOCwxMzg4MDIyNDMxXX0=
 -->
