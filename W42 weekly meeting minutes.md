@@ -18,11 +18,10 @@ NA
 
  - User Dash (Hanbin)  
  - LLM Augmented Auto Test, AT Brain, General Issue
-   Resolver, FAQ Action Manage System, FAQ Auto Verify. (Chuan Li)
-  
-   Bitfile System (Chao Huan) 
-   EAC (Huan Tan)
+   Resolver, FAQ Action Manage System, FAQ Auto Verify. (Chuan Li)   
+ - Bitfile System (Chao Huan)     
+ - EAC (Huan Tan)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODM0ODc5XX0=
+eyJoaXN0b3J5IjpbLTczNzkwMDE4NV19
 -->
