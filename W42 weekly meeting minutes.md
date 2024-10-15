@@ -25,6 +25,10 @@ NA
  - Bitfile System (Chao Huan)     
  - EAC (Huan Tan)
 
+
+Critical Path 未来要做什么，怎么做（Huan Tan）
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDU4NTcxOCwxMzg4MDIyNDMxXX0=
+eyJoaXN0b3J5IjpbLTE4ODUzNTExODQsMTY3NDU4NTcxOCwxMz
+g4MDIyNDMxXX0=
 -->
