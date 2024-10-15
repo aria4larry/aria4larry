@@ -7,6 +7,7 @@
 
 ### Announcement
 * PMD 11.6开始, 注意自己的AOP
+* 注意工安问题（GCN L1 会参观6）
 ### Action Update
 NA
 ### Feature Status (CI Coordinator) 
@@ -24,5 +25,5 @@ NA
  - EAC (Huan Tan)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTU0NzE1NV19
+eyJoaXN0b3J5IjpbMTM3MjgyODE2NF19
 -->
