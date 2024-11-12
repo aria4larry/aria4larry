@@ -25,9 +25,12 @@
 	* Finish
 
 ## 学习、泛化
+### LLM本身的泛化能力 - 对手机画面、世界的Common理解（黑盒）
+### 强化学习（Reinforcement Learning）
+> c
 
 ## 技术重点
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTA1MjM3N119
+eyJoaXN0b3J5IjpbLTExMTQwNDUyMzRdfQ==
 -->
