@@ -43,8 +43,10 @@
 #### 4.3.1 外部输入的知识库
 #### 4.3.2 ***强化学习得到的RL模型***
 
-## 5. 参考
+## 5. 参考文献
+* [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
+* [Open AI RL play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3ODk3NzgsMTczNDMyNjg0NiwtMT
-UxMjk5MTc2M119
+eyJoaXN0b3J5IjpbMTMwOTgxNTgwMCwxNzM0MzI2ODQ2LC0xNT
+EyOTkxNzYzXX0=
 -->
