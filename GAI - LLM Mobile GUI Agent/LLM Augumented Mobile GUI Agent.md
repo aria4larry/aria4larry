@@ -49,8 +49,8 @@
 * [AppAgent: Multimodal Agents as Smartphone Users Github Project]（https://appagent-official.github.io/）
 * [AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
 * [MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
-* 
+* [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjM5ODY4OCwxNzM0MzI2ODQ2LC0xNT
-EyOTkxNzYzXX0=
+eyJoaXN0b3J5IjpbODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczND
+MyNjg0NiwtMTUxMjk5MTc2M119
 -->
