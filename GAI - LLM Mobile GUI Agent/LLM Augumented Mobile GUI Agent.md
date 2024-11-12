@@ -44,6 +44,8 @@
 #### 4.3.2 ***强化学习得到的RL模型***
 强调如何基于环境而行动，以取得最大化的预期利益。其关注点在于寻找探索（对未知领域的）和利用（对已有知识的）的平衡。
 
+
+
 ## 5. 参考文献
 * [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 * [2. Open AI RL play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
@@ -52,7 +54,7 @@
 * [5. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [6. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NTcwNjk1LDU2NDgzNjEyMCwtMzcyMD
+eyJoaXN0b3J5IjpbOTE5Mjc3MDkxLDU2NDgzNjEyMCwtMzcyMD
 EzOTc0LC03MzgyNDI0NTQsODk1ODY3OTEzLDE4NDIzOTg2ODgs
 MTczNDMyNjg0NiwtMTUxMjk5MTc2M119
 -->
