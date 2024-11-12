@@ -31,7 +31,10 @@
 
 ## 技术重点
 ### Multi-Agent 架构 发挥LLM的Common能力（Observation - Planning - Reasoning - Action - Reflection）
-### 短期记忆处理，
+### 短期记忆处理，关键记忆处理
+### 长期记忆处理：
+#### 外部输入的知识库
+#### 强化学习得到的RL模型
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3Njg1MDM4XX0=
+eyJoaXN0b3J5IjpbLTIxMjAzMTg0NjFdfQ==
 -->
