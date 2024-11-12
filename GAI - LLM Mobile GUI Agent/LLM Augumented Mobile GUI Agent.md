@@ -32,12 +32,12 @@
 
 ## 4. 技术重点
 ### 4.1 Multi-Agent 架构 发挥LLM的Common能力（Observation - Planning - Reasoning - Action - Reflection）
-#### 4.1.1 LangGraph + Hie4rarchi
+#### 4.1.1 LangGraph + Hierarchical Multi-Agent
+#### 4.1.2 React Reasoning + Reflection
 ### 4.2 短期记忆处理，关键记忆处理
 ### 4.3 长期记忆处理：
 #### 4.3.1 外部输入的知识库
 #### 4.3.2 ***强化学习得到的RL模型***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEyMTkwMDUsLTE1MTI5OTE3NjNdfQ
-==
+eyJoaXN0b3J5IjpbMTczNDMyNjg0NiwtMTUxMjk5MTc2M119
 -->
