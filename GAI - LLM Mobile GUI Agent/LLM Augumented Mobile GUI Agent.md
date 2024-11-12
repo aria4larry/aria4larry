@@ -33,14 +33,16 @@
 ## 4. 技术重点
 ### 4.1 Multi-Agent 架构 发挥LLM的Common能力（Observation - Planning - Reasoning - Action - Reflection）
 #### 4.1.1 LangGraph + Hierarchical Multi-Agent
+
 #### 4.1.2 React Reasoning + Reflection
 ### 4.2 短期记忆处理，关键记忆处理
 **短期记忆（工作记忆）**：完成某个特定任务并不需要记住所有历史**操作**和**状态**， 类比人类的记忆系统，只需要记住5-7 个历史 **操作**和**状态**即可。这样可以 **节省Token**, **加快LLM返回速度**。
-**关键记忆**： 短期记忆中还需要判断某些**状态、操作** 可能是关键记忆，需要在整个任务过程中保存。比如跨APP操作 “查询成都的天气，并发送给我的”
+
+**关键记忆**： 短期记忆中还需要判断某些**状态、操作** 可能是关键记忆，需要在整个任务过程中保存。比如跨APP操作 “查询成都的天气，并发送给我的微信好友 A”， 操作步骤中间中天气APP得到的天气信息需要作为关键记忆保留到任务完成。
 ### 4.3 长期记忆处理：
 #### 4.3.1 外部输入的知识库
 #### 4.3.2 ***强化学习得到的RL模型***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYzNzEyMTQsMTczNDMyNjg0NiwtMT
-UxMjk5MTc2M119
+eyJoaXN0b3J5IjpbMjcwMzE2ODg2LDE3MzQzMjY4NDYsLTE1MT
+I5OTE3NjNdfQ==
 -->
