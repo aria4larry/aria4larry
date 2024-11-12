@@ -14,11 +14,20 @@
 
 ## 工具使用
 * LLM调用Tool
+* UI Automator 操作手机
+* 简化的Action 空间
+	* Tap
+	* DoubleTap
+	* Swipe (direction)
+	* Back
+	* Home
+	* Text
+	* Finish
 
 ## 学习、泛化
 
 ## 技术重点
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk0NjEwMjJdfQ==
+eyJoaXN0b3J5IjpbMTAwNTA1MjM3N119
 -->
