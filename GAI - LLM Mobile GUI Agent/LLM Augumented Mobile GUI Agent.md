@@ -30,8 +30,8 @@
 > 对于给定任务，利用操作经验达到近似最优解
 
 ## 技术重点
-### Multi-Agent 架构组织
-
+### Multi-Agent 架构 发挥LLM的Common能力（Observation - Planning - Reasoning - Action - Reflection）
+### 短期记忆处理，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzEwODQxMV19
+eyJoaXN0b3J5IjpbOTg3Njg1MDM4XX0=
 -->
