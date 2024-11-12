@@ -46,9 +46,11 @@
 ## 5. 参考文献
 * [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 * [Open AI RL play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
-* [AppAgent: Multimodal Agents as Smartphone Users]（https://appagent-official.github.io/）
+* [AppAgent: Multimodal Agents as Smartphone Users Github Project]（https://appagent-official.github.io/）
 * [AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
+* [MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDkyODI3NywxNzM0MzI2ODQ2LC0xNT
+eyJoaXN0b3J5IjpbMTg0MjM5ODY4OCwxNzM0MzI2ODQ2LC0xNT
 EyOTkxNzYzXX0=
 -->
