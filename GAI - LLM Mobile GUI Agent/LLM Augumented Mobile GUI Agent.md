@@ -44,13 +44,13 @@
 #### 4.3.2 ***强化学习得到的RL模型***
 
 ## 5. 参考文献
-* [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
-* [Open AI RL play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
-* [AppAgent: Multimodal Agents as Smartphone Users Github Project]（https://appagent-official.github.io/）
-* [AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
-* [MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
-* [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
+* [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
+* [2. Open AI RL play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+* [3. AppAgent: Multimodal Agents as Smartphone Users Github Project]（https://appagent-official.github.io/）
+* [4. AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
+* [5. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
+* [6. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczND
-MyNjg0NiwtMTUxMjk5MTc2M119
+eyJoaXN0b3J5IjpbLTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0Mj
+M5ODY4OCwxNzM0MzI2ODQ2LC0xNTEyOTkxNzYzXX0=
 -->
