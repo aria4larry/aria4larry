@@ -43,6 +43,7 @@
 #### 4.3.1 外部输入的知识库
 #### 4.3.2 ***强化学习得到的RL模型***
 
+
 ## 5. 参考文献
 * [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 * [2. Open AI RL play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
@@ -51,7 +52,7 @@
 * [5. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [6. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NT
-g2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3
-NjNdfQ==
+eyJoaXN0b3J5IjpbNTY0ODM2MTIwLC0zNzIwMTM5NzQsLTczOD
+I0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0MzI2ODQ2
+LC0xNTEyOTkxNzYzXX0=
 -->
