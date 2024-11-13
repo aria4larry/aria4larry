@@ -49,13 +49,13 @@
 ## 5. 参考文献
 * [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 * [2. AI Learns to Walk (deep reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
-* [3. Open AI RL play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+* [3. Open AI RL learn to play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
 * [4. AppAgent: Multimodal Agents as Smartphone Users Github Project](https://appagent-official.github.io/)
 * [5. AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxMTcyMDUyLDkxOTI3NzA5MSw1NjQ4Mz
+eyJoaXN0b3J5IjpbMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4Mz
 YxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxMywx
 ODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3NjNdfQ==
 -->
