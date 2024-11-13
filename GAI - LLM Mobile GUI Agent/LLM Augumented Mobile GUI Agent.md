@@ -64,7 +64,9 @@
 ![Policy Based RL](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y8o17gdqUdpxy0Ko2EJ0ZA.png)
 
 
-**Value Based**: 
+**Value Based**: 学习在某个状态下对应的回报：
+![enter link description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wqiFCC7kERiI1W_gm71JMQ.jpeg)
+
 ## 5. 参考文献
 * [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 * [2. AI Learns to Walk (deep reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
@@ -74,8 +76,8 @@
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTc4OTY4LDEwNjcyNjMxMTIsLTE0MD
-Q0ODgzNSwxNDc2MjAzNjEsOTE5Mjc3MDkxLDU2NDgzNjEyMCwt
-MzcyMDEzOTc0LC03MzgyNDI0NTQsODk1ODY3OTEzLDE4NDIzOT
-g2ODgsMTczNDMyNjg0NiwtMTUxMjk5MTc2M119
+eyJoaXN0b3J5IjpbLTE2OTY5MzkxNDEsMTA2NzI2MzExMiwtMT
+QwNDQ4ODM1LDE0NzYyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIw
+LC0zNzIwMTM5NzQsLTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0Mj
+M5ODY4OCwxNzM0MzI2ODQ2LC0xNTEyOTkxNzYzXX0=
 -->
