@@ -55,7 +55,9 @@
 4.  规定转换后“即时奖励”的规则（奖励函数）![{\displaystyle R}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33)；
 5.  描述主体能够观察到什么的规则。
 
-**Policy Based** : 输入状态和Action空间，输出Action或者各个Action的概率。
+**Policy Based** : 输入状态和Action空间，输出Action或者各个Action的概率。即学习Agent在各个状态下应该做什么Action:
+![enter image description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*F1btD4VBjq66HAz_hzngOg.jpeg)
+
 * -   _Deterministic_: a policy at a given state  **will always return the same action.**
 ![enter image description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Yaw0uCoQf1HFjVhu_ETVsw.jpeg)
 * -   _Stochastic_: outputs a  **probability distribution over actions.**
@@ -72,8 +74,8 @@
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjcyMjgyOSwxMDY3MjYzMTEyLC0xND
-A0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4MzYxMjAs
-LTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxMywxODQyMz
-k4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3NjNdfQ==
+eyJoaXN0b3J5IjpbLTc0OTc4OTY4LDEwNjcyNjMxMTIsLTE0MD
+Q0ODgzNSwxNDc2MjAzNjEsOTE5Mjc3MDkxLDU2NDgzNjEyMCwt
+MzcyMDEzOTc0LC03MzgyNDI0NTQsODk1ODY3OTEzLDE4NDIzOT
+g2ODgsMTczNDMyNjg0NiwtMTUxMjk5MTc2M119
 -->
