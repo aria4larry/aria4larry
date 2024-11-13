@@ -58,13 +58,12 @@
 **Policy Based** : 输入状态和Action空间，输出Action或者各个Action的概率。即学习Agent在各个状态下应该做什么Action:
 ![enter image description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*F1btD4VBjq66HAz_hzngOg.jpeg)
 
-* -   _Deterministic_: a policy at a given state  **will always return the same action.**
+-   _Deterministic_: a policy at a given state  **will always return the same action.**
 ![enter image description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Yaw0uCoQf1HFjVhu_ETVsw.jpeg)
-* -   _Stochastic_: outputs a  **probability distribution over actions.**
+-   _Stochastic_: outputs a  **probability distribution over actions.**
 ![Policy Based RL](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y8o17gdqUdpxy0Ko2EJ0ZA.png)
 
-
-**Value Based**: 学习在某个状态下对应的回报：
+**Value Based**: 学习在某个状态下对应的回报, （默认Policy 最大化整体回报）：
 ![enter link description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wqiFCC7kERiI1W_gm71JMQ.jpeg)
 
 ## 5. 参考文献
@@ -76,8 +75,8 @@
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY5MzkxNDEsMTA2NzI2MzExMiwtMT
-QwNDQ4ODM1LDE0NzYyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIw
-LC0zNzIwMTM5NzQsLTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0Mj
-M5ODY4OCwxNzM0MzI2ODQ2LC0xNTEyOTkxNzYzXX0=
+eyJoaXN0b3J5IjpbMTQwNjY1OTY5MSwxMDY3MjYzMTEyLC0xND
+A0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4MzYxMjAs
+LTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxMywxODQyMz
+k4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3NjNdfQ==
 -->
