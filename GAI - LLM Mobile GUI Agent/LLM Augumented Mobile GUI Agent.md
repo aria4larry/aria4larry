@@ -61,6 +61,8 @@
 * -   _Stochastic_: outputs a  **probability distribution over actions.**
 ![Policy Based RL](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y8o17gdqUdpxy0Ko2EJ0ZA.png)
 
+
+**Value Based**: 
 ## 5. 参考文献
 * [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 * [2. AI Learns to Walk (deep reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
@@ -70,7 +72,7 @@
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTI1NzcwNiwtMTQwNDQ4ODM1LDE0Nz
+eyJoaXN0b3J5IjpbMTA2NzI2MzExMiwtMTQwNDQ4ODM1LDE0Nz
 YyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQs
 LTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0Mz
 I2ODQ2LC0xNTEyOTkxNzYzXX0=
