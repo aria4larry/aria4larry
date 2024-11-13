@@ -42,7 +42,7 @@
 ### 4.3 长期记忆处理：
 #### 4.3.1 外部输入的知识库
 #### 4.3.2 ***强化学习得到的RL模型***
-强调如何基于环境而行动，以取得最大化的预期利益。其关注点在于寻找探索（对未知领域的）和利用（对已有知识的）的平衡。
+强调如何基于环境而行动，以取得最大化的预期利益。其关注点在于寻找探索（对未知领域的）和利用（对已有知识的）的平衡。***强化学习：适合需要序列决策的动态环境***
 ![典型框架：智能体在环境中采取一种行为，环境将其转换为一次回报和一种状态表示，随后反馈给智能体。](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/375px-Reinforcement_learning_diagram.svg.png)
 
 > 典型框架：智能体在环境中采取一种行为，环境将其转换为一次回报和一种状态表示，随后反馈给智能体。
@@ -124,9 +124,9 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzYxNzIwNSwxNDA2NjU5NjkxLDEwNj
-cyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEsOTE5Mjc3MDkx
-LDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyNDI0NTQsODk1OD
-Y3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0NiwtMTUxMjk5MTc2
-M119
+eyJoaXN0b3J5IjpbLTk1ODM3NDEyOCwxOTM3NjE3MjA1LDE0MD
+Y2NTk2OTEsMTA2NzI2MzExMiwtMTQwNDQ4ODM1LDE0NzYyMDM2
+MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQsLTczOD
+I0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0MzI2ODQ2
+LC0xNTEyOTkxNzYzXX0=
 -->
