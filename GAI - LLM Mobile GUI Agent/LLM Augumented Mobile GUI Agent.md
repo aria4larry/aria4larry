@@ -29,7 +29,8 @@
 ### 3.1 LLM本身的泛化能力 - 对手机画面、世界的Common理解（黑盒）
 ### 3.2 强化学习（Reinforcement Learning）
 > 对于给定任务，利用操作经验达到近似最优解
-
+### 3.3 保存知识库
+- 人为提供、标注
 ## 4. 技术重点
 ### 4.1 Multi-Agent 架构 发挥LLM的Common能力（Observation - Planning - Reasoning - Action - Reflection）
 #### 4.1.1 LangGraph + Hierarchical Multi-Agent
@@ -125,9 +126,9 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTgyNzYyNCwxOTM3NjE3MjA1LDE0MD
-Y2NTk2OTEsMTA2NzI2MzExMiwtMTQwNDQ4ODM1LDE0NzYyMDM2
-MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQsLTczOD
-I0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0MzI2ODQ2
-LC0xNTEyOTkxNzYzXX0=
+eyJoaXN0b3J5IjpbLTY3ODY2ODcyLDE5Mzc2MTcyMDUsMTQwNj
+Y1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYx
+LDkxOTI3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4Mj
+QyNDU0LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYs
+LTE1MTI5OTE3NjNdfQ==
 -->
