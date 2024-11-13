@@ -30,7 +30,9 @@
 ### 3.2 强化学习（Reinforcement Learning）
 > 对于给定任务，利用操作经验达到近似最优解
 ### 3.3 保存知识库
-- 人为提供、标注
+- 人为提供、标注的知识库
+- Agent训练或者运行时见过的知识库Summary
+
 ## 4. 技术重点
 ### 4.1 Multi-Agent 架构 发挥LLM的Common能力（Observation - Planning - Reasoning - Action - Reflection）
 #### 4.1.1 LangGraph + Hierarchical Multi-Agent
@@ -126,7 +128,7 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODY2ODcyLDE5Mzc2MTcyMDUsMTQwNj
+eyJoaXN0b3J5IjpbNzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNj
 Y1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYx
 LDkxOTI3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4Mj
 QyNDU0LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYs
