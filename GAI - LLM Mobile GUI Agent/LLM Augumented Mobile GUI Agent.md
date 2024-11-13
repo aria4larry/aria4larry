@@ -72,14 +72,14 @@
 ![enter link description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wqiFCC7kERiI1W_gm71JMQ.jpeg)
 
 ## 5. 参考文献
-* [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
-* [2. AI Learns to Walk (deep reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
-* [3. Open AI RL learn to play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
-* [4. AppAgent: Multimodal Agents as Smartphone Users Github Project](https://appagent-official.github.io/)
-* [5. AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
-* [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
-* [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
-* [8. Reinforcement Learning 101: Best Introduction for Beginners](https://cyborgcodes.medium.com/reinforcement-learning-101-best-introduction-for-beginners-b08c4b5e6b43)
+1. [ Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
+2. [ AI Learns to Walk (deep reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
+3. [ Open AI RL learn to play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+4. [4. AppAgent: Multimodal Agents as Smartphone Users Github Project](https://appagent-official.github.io/)
+5. [5. AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
+6. [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
+7. [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
+8. [8. Reinforcement Learning 101: Best Introduction for Beginners](https://cyborgcodes.medium.com/reinforcement-learning-101-best-introduction-for-beginners-b08c4b5e6b43)
 
 
 ## 机器学习主要范式对比：强化学习、监督学习和非监督学习 
@@ -128,9 +128,9 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNj
-Y1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYx
-LDkxOTI3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4Mj
-QyNDU0LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYs
-LTE1MTI5OTE3NjNdfQ==
+eyJoaXN0b3J5IjpbMjA5MTkzMjgwNyw3MjM4MTIxODUsMTkzNz
+YxNzIwNSwxNDA2NjU5NjkxLDEwNjcyNjMxMTIsLTE0MDQ0ODgz
+NSwxNDc2MjAzNjEsOTE5Mjc3MDkxLDU2NDgzNjEyMCwtMzcyMD
+EzOTc0LC03MzgyNDI0NTQsODk1ODY3OTEzLDE4NDIzOTg2ODgs
+MTczNDMyNjg0NiwtMTUxMjk5MTc2M119
 -->
