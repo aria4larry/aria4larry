@@ -98,35 +98,35 @@
 - 适合解决序列决策问题 
 #### 监督学习 
 - 使用已标记的数据集进行训练 
-- - 目标是学习输入到输出的映射 
-- - 性能通过预测准确度直接评估 
-- - 适合有明确标签的问题 
+- 目标是学习输入到输出的映射 
+- 性能通过预测准确度直接评估 
+- 适合有明确标签的问题 
 #### 非监督学习 
 - 使用无标记数据集 
-- - 目标是发现数据的内在结构或模式 
-- - 没有明确的正确答案 
-- - 适合数据探索和模式识别 
+- 目标是发现数据的内在结构或模式 
+- 没有明确的正确答案 
+- 适合数据探索和模式识别 
 ### 关键区别 
 1. **反馈机制**：
  - 强化学习：延迟的、稀疏的奖励信号 
- - - 监督学习：即时的、明确的正确答案 
- - - 非监督学习：通常没有外部反馈 
+ - 监督学习：即时的、明确的正确答案 
+ - 非监督学习：通常没有外部反馈 
  2. **学习过程**： 
  - 强化学习：通过与环境交互进行在线学习
- -  - 监督学习：通过最小化预测误差进行离线学习 
- - - 非监督学习：通过发现数据内在结构进行离线学习 
+ -  监督学习：通过最小化预测误差进行离线学习 
+ - 非监督学习：通过发现数据内在结构进行离线学习 
  3. **应用场景**： 
  - 强化学习：适合需要序列决策的动态环境 
- - - 监督学习：适合有大量标记数据的预测任务 
+ - 监督学习：适合有大量标记数据的预测任务 
  - 非监督学习：适合数据探索和模式发现任务 
  4. **评估方式**： 
  - 强化学习：累积奖励或任务完成度 
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM5NjE4OTgsMTQwNjY1OTY5MSwxMD
-Y3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5
-MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NT
-g2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3
-NjNdfQ==
+eyJoaXN0b3J5IjpbMTkzNzYxNzIwNSwxNDA2NjU5NjkxLDEwNj
+cyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEsOTE5Mjc3MDkx
+LDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyNDI0NTQsODk1OD
+Y3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0NiwtMTUxMjk5MTc2
+M119
 -->
