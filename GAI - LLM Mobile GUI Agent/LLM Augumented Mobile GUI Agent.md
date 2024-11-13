@@ -76,6 +76,7 @@
 * [5. AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
+* [8. Reinforcement Learning 101: Best Introduction for Beginners](https://cyborgcodes.medium.com/reinforcement-learning-101-best-introduction-for-beginners-b08c4b5e6b43)
 
 
 ## 机器学习主要范式对比：强化学习、监督学习和非监督学习 
@@ -124,7 +125,7 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODM3NDEyOCwxOTM3NjE3MjA1LDE0MD
+eyJoaXN0b3J5IjpbMTc1NTgyNzYyNCwxOTM3NjE3MjA1LDE0MD
 Y2NTk2OTEsMTA2NzI2MzExMiwtMTQwNDQ4ODM1LDE0NzYyMDM2
 MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQsLTczOD
 I0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0MzI2ODQ2
