@@ -47,6 +47,13 @@
 
 > 典型框架：智能体在环境中采取一种行为，环境将其转换为一次回报和一种状态表示，随后反馈给智能体。
 
+基本的强化学习被建模为马尔可夫决策过程：
+
+1.  环境状态的集合![{\displaystyle S}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2);
+2.  动作的集合![{\displaystyle A}](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3);
+3.  在状态之间转换的规则（转移概率矩阵）![{\displaystyle P}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a)；
+4.  规定转换后“即时奖励”的规则（奖励函数）![{\displaystyle R}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33)；
+5.  描述主体能够观察到什么的规则。
 
 ## 5. 参考文献
 * [1. Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
@@ -57,8 +64,8 @@
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNzEyMDQ4LDE0NzYyMDM2MSw5MTkyNz
-cwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQsLTczODI0MjQ1NCw4
-OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0MzI2ODQ2LC0xNTEyOT
-kxNzYzXX0=
+eyJoaXN0b3J5IjpbLTE0MDQ0ODgzNSwxNDc2MjAzNjEsOTE5Mj
+c3MDkxLDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyNDI0NTQs
+ODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0NiwtMTUxMj
+k5MTc2M119
 -->
