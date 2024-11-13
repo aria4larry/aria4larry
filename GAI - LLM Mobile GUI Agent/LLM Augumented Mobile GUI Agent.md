@@ -76,8 +76,13 @@
 * [5. AppAgent: Multimodal Agents as Smartphone Users Paper](https://arxiv.org/pdf/2312.13771.pdf)
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
+
+
+# 机器学习主要范式对比：强化学习、监督学习和非监督学习 
+## 对比表格 
+| 特征 | 强化学习 | 监督学习 | 非监督学习 | |------|----------|----------|------------| | 学习目标 | 最大化累积奖励 | 预测正确标签 | 发现数据中的模式或结构 | | 数据输入 | 环境状态 | 标记数据 | 无标记数据 | | 反馈方式 | 延迟的奖励信号 | 即时、直接的正确答案 | 无直接反馈 | | 交互性 | 高（与环境持续交互） | 低（静态数据集） | 低（静态数据集） | | 决策过程 | 序列决策 | 单次决策 | 通常无决策过程 | | 探索与利用 | 需要平衡 | 不适用 | 不适用 | | 典型应用 | 游戏AI、机器人控制、推荐系统 | 图像分类、语音识别、垃圾邮件检测 | 聚类分析、异常检测、降维 | ## 主要特点 ### 强化学习 - 智能体通过与环境交互来学习 - 基于试错学习，通过奖励信号指导行为 - 需要平衡探索新动作和利用已知好的动作 - 适合解决序列决策问题 ### 监督学习 - 使用已标记的数据集进行训练 - 目标是学习输入到输出的映射 - 性能通过预测准确度直接评估 - 适合有明确标签的问题 ### 非监督学习 - 使用无标记数据集 - 目标是发现数据的内在结构或模式 - 没有明确的正确答案 - 适合数据探索和模式识别 ## 关键区别 1. **反馈机制**： - 强化学习：延迟的、稀疏的奖励信号 - 监督学习：即时的、明确的正确答案 - 非监督学习：通常没有外部反馈 2. **学习过程**： - 强化学习：通过与环境交互进行在线学习 - 监督学习：通过最小化预测误差进行离线学习 - 非监督学习：通过发现数据内在结构进行离线学习 3. **应用场景**： - 强化学习：适合需要序列决策的动态环境 - 监督学习：适合有大量标记数据的预测任务 - 非监督学习：适合数据探索和模式发现任务 4. **评估方式**： - 强化学习：累积奖励或任务完成度 - 监督学习：预测准确率或误差 - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDcxMDU5MDUsMTQwNjY1OTY5MSwxMD
+eyJoaXN0b3J5IjpbLTE2ODAwOTcwNzQsMTQwNjY1OTY5MSwxMD
 Y3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5
 MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NT
 g2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3
