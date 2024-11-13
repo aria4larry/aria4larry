@@ -43,6 +43,7 @@
 #### 4.3.1 外部输入的知识库
 #### 4.3.2 ***强化学习得到的RL模型***
 强调如何基于环境而行动，以取得最大化的预期利益。其关注点在于寻找探索（对未知领域的）和利用（对已有知识的）的平衡。
+![典型框架：智能体在环境中采取一种行为，环境将其转换为一次回报和一种状态表示，随后反馈给智能体。](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/375px-Reinforcement_learning_diagram.svg.png)
 
 
 
@@ -55,7 +56,8 @@
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4Mz
-YxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxMywx
-ODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3NjNdfQ==
+eyJoaXN0b3J5IjpbMTAzNjgxODM4OSwxNDc2MjAzNjEsOTE5Mj
+c3MDkxLDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyNDI0NTQs
+ODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0NiwtMTUxMj
+k5MTc2M119
 -->
