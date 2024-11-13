@@ -56,6 +56,9 @@
 5.  描述主体能够观察到什么的规则。
 
 **Policy Based** : 输入状态和Action空间，输出各个Action的概率。
+* -   _Deterministic_: a policy at a given state  **will always return the same action.**
+![enter image description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Yaw0uCoQf1HFjVhu_ETVsw.jpeg)
+* -   _Stochastic_: outputs a  **probability distribution over actions.**
 ![Policy Based RL](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y8o17gdqUdpxy0Ko2EJ0ZA.png)
 
 ## 5. 参考文献
@@ -67,7 +70,7 @@
 * [6. MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 * [7. Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjYyNTg3NSwtMTQwNDQ4ODM1LDE0Nz
+eyJoaXN0b3J5IjpbLTQ5OTI1NzcwNiwtMTQwNDQ4ODM1LDE0Nz
 YyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQs
 LTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0Mz
 I2ODQ2LC0xNTEyOTkxNzYzXX0=
