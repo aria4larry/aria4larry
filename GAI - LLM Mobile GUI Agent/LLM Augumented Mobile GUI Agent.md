@@ -1,7 +1,7 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+[toc]
 
 ## 任务
 > AI Agent 自主通过操作UI 完成用户给定的任务 比如 “使用美团外卖给我订一份奶茶外卖”
@@ -128,9 +128,9 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNz
-YxNzIwNSwxNDA2NjU5NjkxLDEwNjcyNjMxMTIsLTE0MDQ0ODgz
-NSwxNDc2MjAzNjEsOTE5Mjc3MDkxLDU2NDgzNjEyMCwtMzcyMD
-EzOTc0LC03MzgyNDI0NTQsODk1ODY3OTEzLDE4NDIzOTg2ODgs
-MTczNDMyNjg0NiwtMTUxMjk5MTc2M119
+eyJoaXN0b3J5IjpbOTAyMDYxNjI3LDEzNDU1NjMxNTMsNzIzOD
+EyMTg1LDE5Mzc2MTcyMDUsMTQwNjY1OTY5MSwxMDY3MjYzMTEy
+LC0xNDA0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4Mz
+YxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxMywx
+ODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3NjNdfQ==
 -->
