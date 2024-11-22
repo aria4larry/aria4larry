@@ -67,7 +67,7 @@
 **Value Based**: 学习在某个状态下对应的回报, （默认Policy 最大化整体回报）：
 ![enter link description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wqiFCC7kERiI1W_gm71JMQ.jpeg)
 
-## 5. 参考文献
+## 5. 参考/文献
 1. [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 2. [AI Learns to Walk (deep reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
 3. [Open AI RL learn to play Hide and Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M)
@@ -76,6 +76,10 @@
 6. [MobileAgent github project](https://github.com/X-PLUG/MobileAgent)
 7. [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
 8. [Reinforcement Learning 101: Best Introduction for Beginners](https://cyborgcodes.medium.com/reinforcement-learning-101-best-introduction-for-beginners-b08c4b5e6b43)
+9. [Gym](https://www.gymlibrary.dev/) Gym OpenAI 开发的用于构建和比较强化学习（Reinforcement Learning, RL）算法的工具包。它提供了一系列标准化的环境，供研究人员和开发者测试和评估他们的强化学习算法。
+10. [Gymnasium](https://gymnasium.farama.org/) Gymnasium, This is a fork of OpenAI's [Gym](https://github.com/openai/gym) library by its maintainers (OpenAI handed over maintenance a few years ago to an outside team), and is where future maintenance will occur going forward.
+    
+    [Lunar l](https://gymnasium.farama.org/_images/lunar_lander.gif)
 
 
 ## 机器学习主要范式对比：强化学习、监督学习和非监督学习 
@@ -124,9 +128,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjA4ODMzMSwxMzQ1NTYzMTUzLDcyMz
-gxMjE4NSwxOTM3NjE3MjA1LDE0MDY2NTk2OTEsMTA2NzI2MzEx
-MiwtMTQwNDQ4ODM1LDE0NzYyMDM2MSw5MTkyNzcwOTEsNTY0OD
-M2MTIwLC0zNzIwMTM5NzQsLTczODI0MjQ1NCw4OTU4Njc5MTMs
-MTg0MjM5ODY4OCwxNzM0MzI2ODQ2LC0xNTEyOTkxNzYzXX0=
+eyJoaXN0b3J5IjpbMTc2NDUwNTcyNSwxNzA2MDg4MzMxLDEzND
+U1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNjY1OTY5
+MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYxLDkxOT
+I3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0
+LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MT
+I5OTE3NjNdfQ==
 -->
