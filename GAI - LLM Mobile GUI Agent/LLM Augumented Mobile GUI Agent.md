@@ -79,6 +79,7 @@
 9. [Gym](https://www.gymlibrary.dev/) Gym OpenAI 开发的用于构建和比较强化学习（Reinforcement Learning, RL）算法的工具包。它提供了一系列标准化的环境，供研究人员和开发者测试和评估他们的强化学习算法。
 10. [Gymnasium](https://gymnasium.farama.org/) Gymnasium, This is a fork of OpenAI's [Gym](https://github.com/openai/gym) library by its maintainers (OpenAI handed over maintenance a few years ago to an outside team), and is where future maintenance will occur going forward.    
     ![Lunar lander](https://gymnasium.farama.org/_images/lunar_lander.gif)
+11. [arxiv: Gymnasium: A Standard Interface for Reinforcement Learning Environments](https://arxiv.org/abs/2407.17032)
 
 
 ## 机器学习主要范式对比：强化学习、监督学习和非监督学习 
@@ -127,10 +128,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDIyOTk3OCwxNzA2MDg4MzMxLDEzND
-U1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNjY1OTY5
-MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYxLDkxOT
-I3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0
-LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDYsLTE1MT
-I5OTE3NjNdfQ==
+eyJoaXN0b3J5IjpbNDcxNTkxMTM3LDE3MDYwODgzMzEsMTM0NT
+U2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNSwxNDA2NjU5Njkx
+LDEwNjcyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEsOTE5Mj
+c3MDkxLDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyNDI0NTQs
+ODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0NiwtMTUxMj
+k5MTc2M119
 -->
