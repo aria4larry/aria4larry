@@ -69,7 +69,8 @@
 
 
 ## 强化学习实做
-### Task： 根据手机画面实时截图
+### Task： 根据手机画面实时截图，操作手机（点击、输入），完成用户给定任务，如“在美团上订一份奶茶外卖”
+
 
 ## 5. 参考/文献
 1. [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
@@ -132,10 +133,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE0Nzk5OTAsNTg3MzEzMjkyLDQ3MT
-U5MTEzNywxNzA2MDg4MzMxLDEzNDU1NjMxNTMsNzIzODEyMTg1
-LDE5Mzc2MTcyMDUsMTQwNjY1OTY5MSwxMDY3MjYzMTEyLC0xND
-A0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4MzYxMjAs
-LTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxMywxODQyMz
-k4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3NjNdfQ==
+eyJoaXN0b3J5IjpbMTU1OTM5OTUxMCw1ODczMTMyOTIsNDcxNT
+kxMTM3LDE3MDYwODgzMzEsMTM0NTU2MzE1Myw3MjM4MTIxODUs
+MTkzNzYxNzIwNSwxNDA2NjU5NjkxLDEwNjcyNjMxMTIsLTE0MD
+Q0ODgzNSwxNDc2MjAzNjEsOTE5Mjc3MDkxLDU2NDgzNjEyMCwt
+MzcyMDEzOTc0LC03MzgyNDI0NTQsODk1ODY3OTEzLDE4NDIzOT
+g2ODgsMTczNDMyNjg0NiwtMTUxMjk5MTc2M119
 -->
