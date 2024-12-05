@@ -85,10 +85,11 @@
 	![PolicyNetwork](https://gymnasium.farama.org/_images/reinforce_invpend_gym_v26_fig2.png)
 
 **环境**
-* **Observation Space** （模型输入）:  ？？？ 截图对应的embedding?  
+* **Observation Space** （模型输入）:  ？？？ 截图对应的embedding?  ***ResNet***
 * **Rewards**: ??? 目标是完成用户给定的任务，
 	* 截图变化、Activity变化 +1？
-	* 报错 -1？
+	* 报错 -1，截图无变化-1？
+	* 达成任务 +10
 	* GPT评分？同时利用了GPT对图片和任务的理解。
 
 
@@ -153,7 +154,7 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM2MzY2NTgsODU2MjU5MDIyLDczND
+eyJoaXN0b3J5IjpbLTE1MTM4ODEzNTksODU2MjU5MDIyLDczND
 QyMDQ3LC0yMTI0NTg3MDcsMTU2ODE1MDMyOSw3ODg1NzA4NTEs
 MTU1OTM5OTUxMCw1ODczMTMyOTIsNDcxNTkxMTM3LDE3MDYwOD
 gzMzEsMTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNSwx
