@@ -91,6 +91,7 @@
 	* 报错 -1，截图无变化-1？
 	* 达成任务 +10
 	* GPT评分？同时利用了GPT对图片和任务的理解。
+* **Action Space**: 动态Space，每个截图可操作的元素和动作不一样。使用预训练的对象检测模型（如 Faster R-CNN、YOLO 或 SSD）来检测截图中的可操作元素，并生成相应的动作空间。
 
 
 ## 5. 参考/文献
@@ -154,11 +155,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM4ODEzNTksODU2MjU5MDIyLDczND
-QyMDQ3LC0yMTI0NTg3MDcsMTU2ODE1MDMyOSw3ODg1NzA4NTEs
-MTU1OTM5OTUxMCw1ODczMTMyOTIsNDcxNTkxMTM3LDE3MDYwOD
-gzMzEsMTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNSwx
-NDA2NjU5NjkxLDEwNjcyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2Mj
-AzNjEsOTE5Mjc3MDkxLDU2NDgzNjEyMCwtMzcyMDEzOTc0XX0=
+eyJoaXN0b3J5IjpbMTkyNjkxNDc2OSwtMTUxMzg4MTM1OSw4NT
+YyNTkwMjIsNzM0NDIwNDcsLTIxMjQ1ODcwNywxNTY4MTUwMzI5
+LDc4ODU3MDg1MSwxNTU5Mzk5NTEwLDU4NzMxMzI5Miw0NzE1OT
+ExMzcsMTcwNjA4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMjE4NSwx
+OTM3NjE3MjA1LDE0MDY2NTk2OTEsMTA2NzI2MzExMiwtMTQwND
+Q4ODM1LDE0NzYyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIwXX0=
 
 -->
