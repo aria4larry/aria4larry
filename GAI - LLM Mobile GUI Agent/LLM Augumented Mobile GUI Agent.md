@@ -92,6 +92,7 @@
 	* 达成任务 +10
 	* GPT评分？同时利用了GPT对图片和任务的理解。
 * **Action Space**: 动态Space，每个截图可操作的元素和动作不一样。使用预训练的对象检测模型（如 Faster R-CNN、YOLO 或 SSD）来检测截图中的可操作元素，并生成相应的动作空间。
+* 1.  **经验回放**：在每个时间步，智能体与环境交互，存储经验（状态、动作、奖励、下一状态）到回放缓冲区。然后，从回放缓冲区中随机抽取一小批经验进行训练，打破数据相关性，提高训练稳定性。
 
 
 ## 5. 参考/文献
@@ -155,11 +156,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjkxNDc2OSwtMTUxMzg4MTM1OSw4NT
-YyNTkwMjIsNzM0NDIwNDcsLTIxMjQ1ODcwNywxNTY4MTUwMzI5
-LDc4ODU3MDg1MSwxNTU5Mzk5NTEwLDU4NzMxMzI5Miw0NzE1OT
-ExMzcsMTcwNjA4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMjE4NSwx
-OTM3NjE3MjA1LDE0MDY2NTk2OTEsMTA2NzI2MzExMiwtMTQwND
-Q4ODM1LDE0NzYyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIwXX0=
+eyJoaXN0b3J5IjpbNjAxODA2MDQwLDE5MjY5MTQ3NjksLTE1MT
+M4ODEzNTksODU2MjU5MDIyLDczNDQyMDQ3LC0yMTI0NTg3MDcs
+MTU2ODE1MDMyOSw3ODg1NzA4NTEsMTU1OTM5OTUxMCw1ODczMT
+MyOTIsNDcxNTkxMTM3LDE3MDYwODgzMzEsMTM0NTU2MzE1Myw3
+MjM4MTIxODUsMTkzNzYxNzIwNSwxNDA2NjU5NjkxLDEwNjcyNj
+MxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEsOTE5Mjc3MDkxXX0=
 
 -->
