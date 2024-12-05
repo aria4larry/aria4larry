@@ -81,7 +81,8 @@
 	* Finish
 **方法**： 使用PyTouch训练一个神经网络来做为输入对应输出的 Policy Network.
 	Policy Network输入：截图
-	Policy Network输出：截图
+	Policy Network输出：对应Action的概率分布
+	![PolicyNetwork](https://gymnasium.farama.org/_images/reinforce_invpend_gym_v26_fig2.png)
 	
 
 
@@ -146,7 +147,7 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUxNTA2MjcsNzg4NTcwODUxLDE1NT
+eyJoaXN0b3J5IjpbLTE4ODg1MjAzMzksNzg4NTcwODUxLDE1NT
 kzOTk1MTAsNTg3MzEzMjkyLDQ3MTU5MTEzNywxNzA2MDg4MzMx
 LDEzNDU1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNj
 Y1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYx
