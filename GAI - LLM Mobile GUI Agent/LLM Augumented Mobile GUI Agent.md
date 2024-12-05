@@ -71,7 +71,7 @@
 ## 强化学习实做
 ### Task： 根据手机画面实时截图，操作手机（点击、输入），完成用户给定任务，如“在美团上订一份奶茶外卖”
 **训练目标**： 完成用户给定的任务。
-**Actions(动作集合)**: 操作手机
+**Actions(动作集合)**: 操作手机上的元素，坐标，输入文本、按键等
 	* Tap
 	* DoubleTap
 	* Swipe (direction)
@@ -79,7 +79,7 @@
 	* Home
 	* Text
 	* Finish
-
+**方法**： 使用PyTouch训练一个
 
 
 ## 5. 参考/文献
@@ -143,7 +143,7 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTA3NzcwNCw3ODg1NzA4NTEsMTU1OT
+eyJoaXN0b3J5IjpbLTExMjA3NDg0MSw3ODg1NzA4NTEsMTU1OT
 M5OTUxMCw1ODczMTMyOTIsNDcxNTkxMTM3LDE3MDYwODgzMzEs
 MTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNSwxNDA2Nj
 U5NjkxLDEwNjcyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEs
