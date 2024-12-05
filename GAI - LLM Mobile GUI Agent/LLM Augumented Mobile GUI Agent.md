@@ -70,7 +70,7 @@
 
 ## 强化学习实做
 ### Task： 根据手机画面实时截图，操作手机（点击、输入），完成用户给定任务，如“在美团上订一份奶茶外卖”
-
+**训练目标**： 完成用户给定的任务。
 
 
 ## 5. 参考/文献
@@ -134,7 +134,7 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3ODgzMTQwLDE1NTkzOTk1MTAsNTg3Mz
+eyJoaXN0b3J5IjpbNzg4NTcwODUxLDE1NTkzOTk1MTAsNTg3Mz
 EzMjkyLDQ3MTU5MTEzNywxNzA2MDg4MzMxLDEzNDU1NjMxNTMs
 NzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNjY1OTY5MSwxMDY3Mj
 YzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5MSw1
