@@ -67,6 +67,9 @@
 **Value Based**: 学习在某个状态下对应的回报, （默认Policy 最大化整体回报）：
 ![enter link description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wqiFCC7kERiI1W_gm71JMQ.jpeg)
 
+
+## 强化学习
+
 ## 5. 参考/文献
 1. [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
 2. [AI Learns to Walk (deep reinforcement learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
@@ -128,10 +131,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNTkxMTM3LDE3MDYwODgzMzEsMTM0NT
-U2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNSwxNDA2NjU5Njkx
-LDEwNjcyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEsOTE5Mj
-c3MDkxLDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyNDI0NTQs
-ODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0NiwtMTUxMj
-k5MTc2M119
+eyJoaXN0b3J5IjpbLTIwODg3OTYyNSw0NzE1OTExMzcsMTcwNj
+A4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMjE4NSwxOTM3NjE3MjA1
+LDE0MDY2NTk2OTEsMTA2NzI2MzExMiwtMTQwNDQ4ODM1LDE0Nz
+YyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQs
+LTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0Mz
+I2ODQ2LC0xNTEyOTkxNzYzXX0=
 -->
