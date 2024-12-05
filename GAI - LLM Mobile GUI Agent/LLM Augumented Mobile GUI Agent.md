@@ -85,7 +85,7 @@
 	![PolicyNetwork](https://gymnasium.farama.org/_images/reinforce_invpend_gym_v26_fig2.png)
 
 **环境**
-* **Observation Space**: 
+* **Observation Space** （模型输入）:  ？？？ 截图对应的embedding?
 
 
 ## 5. 参考/文献
@@ -149,11 +149,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ1ODcwNywxNTY4MTUwMzI5LDc4OD
-U3MDg1MSwxNTU5Mzk5NTEwLDU4NzMxMzI5Miw0NzE1OTExMzcs
-MTcwNjA4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMjE4NSwxOTM3Nj
-E3MjA1LDE0MDY2NTk2OTEsMTA2NzI2MzExMiwtMTQwNDQ4ODM1
-LDE0NzYyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMT
-M5NzQsLTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OF19
+eyJoaXN0b3J5IjpbMTgzMDg4NzM1NCwtMjEyNDU4NzA3LDE1Nj
+gxNTAzMjksNzg4NTcwODUxLDE1NTkzOTk1MTAsNTg3MzEzMjky
+LDQ3MTU5MTEzNywxNzA2MDg4MzMxLDEzNDU1NjMxNTMsNzIzOD
+EyMTg1LDE5Mzc2MTcyMDUsMTQwNjY1OTY5MSwxMDY3MjYzMTEy
+LC0xNDA0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4Mz
+YxMjAsLTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxM119
 
 -->
