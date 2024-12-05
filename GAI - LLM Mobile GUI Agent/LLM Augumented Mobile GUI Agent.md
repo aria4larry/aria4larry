@@ -68,7 +68,8 @@
 ![enter link description here](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wqiFCC7kERiI1W_gm71JMQ.jpeg)
 
 
-## 强化学习
+## 强化学习实做
+### 
 
 ## 5. 参考/文献
 1. [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
@@ -131,10 +132,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3OTYyNSw0NzE1OTExMzcsMTcwNj
-A4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMjE4NSwxOTM3NjE3MjA1
-LDE0MDY2NTk2OTEsMTA2NzI2MzExMiwtMTQwNDQ4ODM1LDE0Nz
-YyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MTIwLC0zNzIwMTM5NzQs
-LTczODI0MjQ1NCw4OTU4Njc5MTMsMTg0MjM5ODY4OCwxNzM0Mz
-I2ODQ2LC0xNTEyOTkxNzYzXX0=
+eyJoaXN0b3J5IjpbNTg3MzEzMjkyLDQ3MTU5MTEzNywxNzA2MD
+g4MzMxLDEzNDU1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDUs
+MTQwNjY1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3Nj
+IwMzYxLDkxOTI3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwt
+NzM4MjQyNDU0LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMj
+Y4NDYsLTE1MTI5OTE3NjNdfQ==
 -->
