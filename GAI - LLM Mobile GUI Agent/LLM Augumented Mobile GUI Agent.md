@@ -79,7 +79,10 @@
 	* Home
 	* Text
 	* Finish
-**方法**： 使用PyTouch训练一个
+**方法**： 使用PyTouch训练一个神经网络来做为输入对应输出的 Policy Network.
+	Policy Network输入：截图
+	Policy Network输出：截图
+	
 
 
 ## 5. 参考/文献
@@ -143,11 +146,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA3NDg0MSw3ODg1NzA4NTEsMTU1OT
-M5OTUxMCw1ODczMTMyOTIsNDcxNTkxMTM3LDE3MDYwODgzMzEs
-MTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNSwxNDA2Nj
-U5NjkxLDEwNjcyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEs
-OTE5Mjc3MDkxLDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyND
-I0NTQsODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0Nl19
-
+eyJoaXN0b3J5IjpbLTE0MzUxNTA2MjcsNzg4NTcwODUxLDE1NT
+kzOTk1MTAsNTg3MzEzMjkyLDQ3MTU5MTEzNywxNzA2MDg4MzMx
+LDEzNDU1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNj
+Y1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYx
+LDkxOTI3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4Mj
+QyNDU0LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDZd
+fQ==
 -->
