@@ -71,7 +71,7 @@
 ## 强化学习实做
 ### Task： 根据手机画面实时截图，操作手机（点击、输入），完成用户给定任务，如“在美团上订一份奶茶外卖”
 **训练目标**： 完成用户给定的任务。
-**Actions(动作集合)**: 操作手机上的元素，坐标，输入文本、按键等
+**Actions Space(动作集合)**: 操作手机上的元素，坐标，输入文本、按键等
 	* Tap
 	* DoubleTap
 	* Swipe (direction)
@@ -83,7 +83,8 @@
 	Policy Network输入：截图
 	Policy Network输出：对应Action的概率分布
 	![PolicyNetwork](https://gymnasium.farama.org/_images/reinforce_invpend_gym_v26_fig2.png)
-	
+
+**环境**
 
 
 ## 5. 参考/文献
@@ -147,11 +148,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg1MjAzMzksNzg4NTcwODUxLDE1NT
-kzOTk1MTAsNTg3MzEzMjkyLDQ3MTU5MTEzNywxNzA2MDg4MzMx
-LDEzNDU1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDUsMTQwNj
-Y1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3NjIwMzYx
-LDkxOTI3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwtNzM4Mj
-QyNDU0LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMjY4NDZd
-fQ==
+eyJoaXN0b3J5IjpbMTU2ODE1MDMyOSw3ODg1NzA4NTEsMTU1OT
+M5OTUxMCw1ODczMTMyOTIsNDcxNTkxMTM3LDE3MDYwODgzMzEs
+MTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNSwxNDA2Nj
+U5NjkxLDEwNjcyNjMxMTIsLTE0MDQ0ODgzNSwxNDc2MjAzNjEs
+OTE5Mjc3MDkxLDU2NDgzNjEyMCwtMzcyMDEzOTc0LC03MzgyND
+I0NTQsODk1ODY3OTEzLDE4NDIzOTg2ODgsMTczNDMyNjg0Nl19
+
 -->
