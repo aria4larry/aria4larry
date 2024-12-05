@@ -88,6 +88,8 @@
 * **Observation Space** （模型输入）:  ？？？ 截图对应的embedding?
 * **Rewards**: ??? 目标是完成用户给定的任务，
 	* 截图变化、Activity变化 +1？
+	* 报错 -1？
+	* 
 
 
 ## 5. 参考/文献
@@ -151,11 +153,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMzYzMjc4LC0yMTI0NTg3MDcsMTU2OD
-E1MDMyOSw3ODg1NzA4NTEsMTU1OTM5OTUxMCw1ODczMTMyOTIs
-NDcxNTkxMTM3LDE3MDYwODgzMzEsMTM0NTU2MzE1Myw3MjM4MT
-IxODUsMTkzNzYxNzIwNSwxNDA2NjU5NjkxLDEwNjcyNjMxMTIs
-LTE0MDQ0ODgzNSwxNDc2MjAzNjEsOTE5Mjc3MDkxLDU2NDgzNj
-EyMCwtMzcyMDEzOTc0LC03MzgyNDI0NTQsODk1ODY3OTEzXX0=
+eyJoaXN0b3J5IjpbNzM0NDIwNDcsLTIxMjQ1ODcwNywxNTY4MT
+UwMzI5LDc4ODU3MDg1MSwxNTU5Mzk5NTEwLDU4NzMxMzI5Miw0
+NzE1OTExMzcsMTcwNjA4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMj
+E4NSwxOTM3NjE3MjA1LDE0MDY2NTk2OTEsMTA2NzI2MzExMiwt
+MTQwNDQ4ODM1LDE0NzYyMDM2MSw5MTkyNzcwOTEsNTY0ODM2MT
+IwLC0zNzIwMTM5NzQsLTczODI0MjQ1NCw4OTU4Njc5MTNdfQ==
 
 -->
