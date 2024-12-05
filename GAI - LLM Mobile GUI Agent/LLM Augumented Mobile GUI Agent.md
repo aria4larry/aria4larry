@@ -86,7 +86,8 @@
 
 **环境**
 * **Observation Space** （模型输入）:  ？？？ 截图对应的embedding?
-* 
+* **Rewards**: ??? 目标是完成用户给定的任务，
+	* 截图变化、Activity变化 +1？
 
 
 ## 5. 参考/文献
@@ -150,7 +151,7 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxOTc3OTcwLC0yMTI0NTg3MDcsMTU2OD
+eyJoaXN0b3J5IjpbNjAzMzYzMjc4LC0yMTI0NTg3MDcsMTU2OD
 E1MDMyOSw3ODg1NzA4NTEsMTU1OTM5OTUxMCw1ODczMTMyOTIs
 NDcxNTkxMTM3LDE3MDYwODgzMzEsMTM0NTU2MzE1Myw3MjM4MT
 IxODUsMTkzNzYxNzIwNSwxNDA2NjU5NjkxLDEwNjcyNjMxMTIs
