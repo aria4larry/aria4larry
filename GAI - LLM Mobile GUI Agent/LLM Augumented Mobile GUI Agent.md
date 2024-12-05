@@ -69,7 +69,7 @@
 
 
 ## 强化学习实做
-### 
+### Task： 根据手机画面实时截图
 
 ## 5. 参考/文献
 1. [Hierarchical Multi-Agent](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/hierarchical_agent_teams/)
@@ -132,10 +132,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3MzEzMjkyLDQ3MTU5MTEzNywxNzA2MD
-g4MzMxLDEzNDU1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDUs
-MTQwNjY1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzUsMTQ3Nj
-IwMzYxLDkxOTI3NzA5MSw1NjQ4MzYxMjAsLTM3MjAxMzk3NCwt
-NzM4MjQyNDU0LDg5NTg2NzkxMywxODQyMzk4Njg4LDE3MzQzMj
-Y4NDYsLTE1MTI5OTE3NjNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTE0Nzk5OTAsNTg3MzEzMjkyLDQ3MT
+U5MTEzNywxNzA2MDg4MzMxLDEzNDU1NjMxNTMsNzIzODEyMTg1
+LDE5Mzc2MTcyMDUsMTQwNjY1OTY5MSwxMDY3MjYzMTEyLC0xND
+A0NDg4MzUsMTQ3NjIwMzYxLDkxOTI3NzA5MSw1NjQ4MzYxMjAs
+LTM3MjAxMzk3NCwtNzM4MjQyNDU0LDg5NTg2NzkxMywxODQyMz
+k4Njg4LDE3MzQzMjY4NDYsLTE1MTI5OTE3NjNdfQ==
 -->
