@@ -85,14 +85,16 @@
 	![PolicyNetwork](https://gymnasium.farama.org/_images/reinforce_invpend_gym_v26_fig2.png)
 
 **环境**
-* **Observation Space** （模型输入）:  ？？？ 截图对应的embedding?  ***ResNet***
-* **Rewards**: ??? 目标是完成用户给定的任务，
+* **Observation Space** （模型输入）: （**难点**） 截图对应的embedding?  ***ResNet***
+* **Rewards**: （**难点**） 目标是完成用户给定的任务，
 	* 截图变化、Activity变化 +1？
 	* 报错 -1，截图无变化-1？
 	* 达成任务 +10
 	* GPT评分？同时利用了GPT对图片和任务的理解。
-* **Action Space**: 动态Space？？？，每个截图可操作的元素和动作不一样。使用预训练的对象检测模型（如 Faster R-CNN、YOLO 或 SSD）来检测截图中的可操作元素，并生成相应的动作空间。
-* 1.  **经验回放**：在每个时间步，智能体与环境交互，存储经验（状态、动作、奖励、下一状态）到回放缓冲区。然后，从回放缓冲区中随机抽取一小批经验进行训练，打破数据相关性，提高训练稳定性。
+* **Action Space**: 动态Space空间（**难点**），每个截图可操作的元素和动作不一样。使用预训练的对象检测模型（如 Faster R-CNN、YOLO 或 SSD）来检测截图中的可操作元素，并生成相应的动作空间。
+**工程重点：**
+	* 1.  **经验回放**：在每个时间步，智能体与环境交互，存储经验（状态、动作、奖励、下一状态）到回放缓冲区。然后，从回放缓冲区中随机抽取一小批经验进行训练，打破数据相关性，提高训练稳定性。
+	*  2. **DQN** 构建，
 
 
 ## 5. 参考/文献
@@ -156,11 +158,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDk1NjA1MSw2MDE4MDYwNDAsMTkyNj
-kxNDc2OSwtMTUxMzg4MTM1OSw4NTYyNTkwMjIsNzM0NDIwNDcs
-LTIxMjQ1ODcwNywxNTY4MTUwMzI5LDc4ODU3MDg1MSwxNTU5Mz
-k5NTEwLDU4NzMxMzI5Miw0NzE1OTExMzcsMTcwNjA4ODMzMSwx
-MzQ1NTYzMTUzLDcyMzgxMjE4NSwxOTM3NjE3MjA1LDE0MDY2NT
-k2OTEsMTA2NzI2MzExMiwtMTQwNDQ4ODM1LDE0NzYyMDM2MV19
-
+eyJoaXN0b3J5IjpbMTg0MzI5Njg0NywtMjU0OTU2MDUxLDYwMT
+gwNjA0MCwxOTI2OTE0NzY5LC0xNTEzODgxMzU5LDg1NjI1OTAy
+Miw3MzQ0MjA0NywtMjEyNDU4NzA3LDE1NjgxNTAzMjksNzg4NT
+cwODUxLDE1NTkzOTk1MTAsNTg3MzEzMjkyLDQ3MTU5MTEzNywx
+NzA2MDg4MzMxLDEzNDU1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MT
+cyMDUsMTQwNjY1OTY5MSwxMDY3MjYzMTEyLC0xNDA0NDg4MzVd
+fQ==
 -->
