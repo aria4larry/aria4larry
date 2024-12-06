@@ -96,6 +96,7 @@
 	*  1.  **经验回放**：在每个时间步，智能体与环境交互，存储经验（状态、动作、奖励、下一状态）到回放缓冲区。然后，从回放缓冲区中随机抽取一小批经验进行训练，打破数据相关性，提高训练稳定性。
 	*  2. **DQN** 构建，CNN/Transformer, 网络训练
 	*  3. 训练数据收集(录制)/在线学习 /离线学习（模型初始化）
+	* ![mario](https://ale.farama.org/_images/mario_bros.gif)
 
 
 ## 5. 参考/文献
@@ -159,11 +160,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NzUwNzE4LDM0ODE5NzMxNSwtMjU0OT
-U2MDUxLDYwMTgwNjA0MCwxOTI2OTE0NzY5LC0xNTEzODgxMzU5
-LDg1NjI1OTAyMiw3MzQ0MjA0NywtMjEyNDU4NzA3LDE1NjgxNT
-AzMjksNzg4NTcwODUxLDE1NTkzOTk1MTAsNTg3MzEzMjkyLDQ3
-MTU5MTEzNywxNzA2MDg4MzMxLDEzNDU1NjMxNTMsNzIzODEyMT
-g1LDE5Mzc2MTcyMDUsMTQwNjY1OTY5MSwxMDY3MjYzMTEyXX0=
+eyJoaXN0b3J5IjpbMTMyNzk3ODc5NywzNDgxOTczMTUsLTI1ND
+k1NjA1MSw2MDE4MDYwNDAsMTkyNjkxNDc2OSwtMTUxMzg4MTM1
+OSw4NTYyNTkwMjIsNzM0NDIwNDcsLTIxMjQ1ODcwNywxNTY4MT
+UwMzI5LDc4ODU3MDg1MSwxNTU5Mzk5NTEwLDU4NzMxMzI5Miw0
+NzE1OTExMzcsMTcwNjA4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMj
+E4NSwxOTM3NjE3MjA1LDE0MDY2NTk2OTEsMTA2NzI2MzExMl19
 
 -->
