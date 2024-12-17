@@ -27,7 +27,12 @@
 > 对于给定任务，利用操作经验达到近似最优解
 > W49报告，训练、实现成本太高，暂时不要
 ### 3.3 保存知识库
+
 - 人为提供、标注的知识库
+	- 知识库保存知识形式和结构：
+	```json
+	{"meta-data":{}}
+	```
 - Agent训练或者运行时见过的知识库Summary
 
 ## 4. 技术重点
@@ -161,11 +166,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MDQ5MjEsMTMyNzk3ODc5NywzNDgxOT
-czMTUsLTI1NDk1NjA1MSw2MDE4MDYwNDAsMTkyNjkxNDc2OSwt
-MTUxMzg4MTM1OSw4NTYyNTkwMjIsNzM0NDIwNDcsLTIxMjQ1OD
-cwNywxNTY4MTUwMzI5LDc4ODU3MDg1MSwxNTU5Mzk5NTEwLDU4
-NzMxMzI5Miw0NzE1OTExMzcsMTcwNjA4ODMzMSwxMzQ1NTYzMT
-UzLDcyMzgxMjE4NSwxOTM3NjE3MjA1LDE0MDY2NTk2OTFdfQ==
-
+eyJoaXN0b3J5IjpbNjQzNTQ1OTY0LDc5NjA0OTIxLDEzMjc5Nz
+g3OTcsMzQ4MTk3MzE1LC0yNTQ5NTYwNTEsNjAxODA2MDQwLDE5
+MjY5MTQ3NjksLTE1MTM4ODEzNTksODU2MjU5MDIyLDczNDQyMD
+Q3LC0yMTI0NTg3MDcsMTU2ODE1MDMyOSw3ODg1NzA4NTEsMTU1
+OTM5OTUxMCw1ODczMTMyOTIsNDcxNTkxMTM3LDE3MDYwODgzMz
+EsMTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNV19
 -->
