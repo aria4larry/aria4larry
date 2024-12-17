@@ -35,7 +35,8 @@
 		"meta-data":{
 		"app ui desc":"这是一个外卖app，名为「app-name」, 基主要功能为「app-func」,当前页面功能为「ui-func」",
 		"package-name":"「package-name」",
-		"activity-name":"「act」",
+		"activity-name":"「activity-name」",
+		"screen-shot embedding":"「embeded vector」",
 		}
 	}
 	```
@@ -172,11 +173,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ4OTAwMDMsNzk2MDQ5MjEsMTMyNz
-k3ODc5NywzNDgxOTczMTUsLTI1NDk1NjA1MSw2MDE4MDYwNDAs
-MTkyNjkxNDc2OSwtMTUxMzg4MTM1OSw4NTYyNTkwMjIsNzM0ND
-IwNDcsLTIxMjQ1ODcwNywxNTY4MTUwMzI5LDc4ODU3MDg1MSwx
-NTU5Mzk5NTEwLDU4NzMxMzI5Miw0NzE1OTExMzcsMTcwNjA4OD
-MzMSwxMzQ1NTYzMTUzLDcyMzgxMjE4NSwxOTM3NjE3MjA1XX0=
+eyJoaXN0b3J5IjpbLTEzNjc1MjYzMiw3OTYwNDkyMSwxMzI3OT
+c4Nzk3LDM0ODE5NzMxNSwtMjU0OTU2MDUxLDYwMTgwNjA0MCwx
+OTI2OTE0NzY5LC0xNTEzODgxMzU5LDg1NjI1OTAyMiw3MzQ0Mj
+A0NywtMjEyNDU4NzA3LDE1NjgxNTAzMjksNzg4NTcwODUxLDE1
+NTkzOTk1MTAsNTg3MzEzMjkyLDQ3MTU5MTEzNywxNzA2MDg4Mz
+MxLDEzNDU1NjMxNTMsNzIzODEyMTg1LDE5Mzc2MTcyMDVdfQ==
 
 -->
