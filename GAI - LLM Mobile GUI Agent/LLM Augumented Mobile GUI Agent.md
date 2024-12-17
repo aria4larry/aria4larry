@@ -23,8 +23,9 @@
 
 ## 3. 学习、泛化
 ### 3.1 LLM本身的泛化能力 - 对手机画面、世界的Common理解（黑盒）
-### 3.2 强化学习（Reinforcement Learning）
+### ~~3.2 强化学习（Reinforcement Learning）~~
 > 对于给定任务，利用操作经验达到近似最优解
+> W49报告，训练、实现成本太高，暂时不要
 ### 3.3 保存知识库
 - 人为提供、标注的知识库
 - Agent训练或者运行时见过的知识库Summary
@@ -160,11 +161,11 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzk3ODc5NywzNDgxOTczMTUsLTI1ND
-k1NjA1MSw2MDE4MDYwNDAsMTkyNjkxNDc2OSwtMTUxMzg4MTM1
-OSw4NTYyNTkwMjIsNzM0NDIwNDcsLTIxMjQ1ODcwNywxNTY4MT
-UwMzI5LDc4ODU3MDg1MSwxNTU5Mzk5NTEwLDU4NzMxMzI5Miw0
-NzE1OTExMzcsMTcwNjA4ODMzMSwxMzQ1NTYzMTUzLDcyMzgxMj
-E4NSwxOTM3NjE3MjA1LDE0MDY2NTk2OTEsMTA2NzI2MzExMl19
+eyJoaXN0b3J5IjpbNzk2MDQ5MjEsMTMyNzk3ODc5NywzNDgxOT
+czMTUsLTI1NDk1NjA1MSw2MDE4MDYwNDAsMTkyNjkxNDc2OSwt
+MTUxMzg4MTM1OSw4NTYyNTkwMjIsNzM0NDIwNDcsLTIxMjQ1OD
+cwNywxNTY4MTUwMzI5LDc4ODU3MDg1MSwxNTU5Mzk5NTEwLDU4
+NzMxMzI5Miw0NzE1OTExMzcsMTcwNjA4ODMzMSwxMzQ1NTYzMT
+UzLDcyMzgxMjE4NSwxOTM3NjE3MjA1LDE0MDY2NTk2OTFdfQ==
 
 -->
