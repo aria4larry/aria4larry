@@ -31,7 +31,7 @@
 - 人为提供、标注的知识库
 	- 知识库保存知识形式和结构：
 	```json
-	{"meta-data":{"app ui desc":"这是一个外卖app，名为「app-name」"}}
+	{"meta-data":{"app ui desc":"这是一个外卖app，名为「app-name」, 基主要功能为「app-func」,当前页面功能为「ui-func」"}}
 	```
 - Agent训练或者运行时见过的知识库Summary
 
@@ -166,11 +166,10 @@
  - 监督学习：预测准确率或误差 
  - 非监督学习：聚类质量或重构误差等内部指标
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI5NjYwNDYsNzk2MDQ5MjEsMTMyNz
-k3ODc5NywzNDgxOTczMTUsLTI1NDk1NjA1MSw2MDE4MDYwNDAs
-MTkyNjkxNDc2OSwtMTUxMzg4MTM1OSw4NTYyNTkwMjIsNzM0ND
-IwNDcsLTIxMjQ1ODcwNywxNTY4MTUwMzI5LDc4ODU3MDg1MSwx
-NTU5Mzk5NTEwLDU4NzMxMzI5Miw0NzE1OTExMzcsMTcwNjA4OD
-MzMSwxMzQ1NTYzMTUzLDcyMzgxMjE4NSwxOTM3NjE3MjA1XX0=
-
+eyJoaXN0b3J5IjpbNjA5NjU0NDE0LDc5NjA0OTIxLDEzMjc5Nz
+g3OTcsMzQ4MTk3MzE1LC0yNTQ5NTYwNTEsNjAxODA2MDQwLDE5
+MjY5MTQ3NjksLTE1MTM4ODEzNTksODU2MjU5MDIyLDczNDQyMD
+Q3LC0yMTI0NTg3MDcsMTU2ODE1MDMyOSw3ODg1NzA4NTEsMTU1
+OTM5OTUxMCw1ODczMTMyOTIsNDcxNTkxMTM3LDE3MDYwODgzMz
+EsMTM0NTU2MzE1Myw3MjM4MTIxODUsMTkzNzYxNzIwNV19
 -->
