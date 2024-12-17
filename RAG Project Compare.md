@@ -2,12 +2,12 @@
 |-------------------|------------------------------------------------------------------------------------------|----------------------------------------|--------------------------------|----------------------------|-------| 
 | [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | 基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现，开源、可离线部署的 RAG 与 Agent 应用项目。| 集成方便，针对聊天优化 | 功能可能有限，依赖 Langchain | Langchain 社区相关 | 32.5k | 
 | [LLAMAIndex](https://github.com/run-llama/llama_index) | 使用检索增强生成（RAG）技术，将专有数据转化为富含语义信息的向量索引，增强生成模型的准确性。 | 定制化LLMs，高效的索引和查询 | 需要数据预处理，依赖特定数据格式 | LLAMAIndex 开发团队 | ~37.4k | 
-| QAnything | 提供高效的rerank模块设计，优化检索结果排序。 | Rerank模块设计优秀 | 功能描述有限 | FastGPT 团队可能相关 | 未查明 | 
+| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. | Rerank模块设计优秀 | 功能描述有限 | 网易有道 | ~12.1k | 
 | RAGFlow | 擅长文档处理，提供便捷的agent功能，支持外部分享和使用。 | 文档处理最佳，方便的agent功能 | 具体缺点未详 | RAGFlow 开发团队 | 未查明 | 
 | FastGPT | 提供三种检索模式，覆盖RAG的主流实现，擅长文档解析、切片、query改写及recall模型微调。 | 多种检索模式，文档解析和模型微调优势，动态配置模块丰富 | 依赖特定业务数据 | FastGPT 开发团队 | 未查明 | 
 | Haystack | 开源框架，用于构建搜索系统和问答系统，支持多种后端搜索引擎和语言模型的集成。 | 灵活的架构，支持多种搜索引擎，活跃的社区 | 配置复杂，性能依赖后端 | Deepset AI | ~9k |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2OTY0NTM5LC0xNTQzOTk0NzgsMTYxNj
-c5MzM3M119
+eyJoaXN0b3J5IjpbLTE5MzI3MTg3NzAsLTE1NDM5OTQ3OCwxNj
+E2NzkzMzczXX0=
 -->
