@@ -6,8 +6,11 @@
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | Apache-2.0  |  |  | ~25.5k | 
 | [FastGPT](https://github.com/labring/FastGPT) |FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.| Apache-2.0  |  |  | ~19.1k | 
 | [Haystack](https://github.com/deepset-ai/haystack) | AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.| Apache-2.0  |  | Deepset AI | ~18.1k |
+| [DG-GPT](https://github.com/eosphoros-ai/DB-GPT)| 描述 | 优点 | 缺点 | 组织 | 星级 | 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTM4NzEzNiwtMTU1NDgwNzU3NSw0Mz
-U2NzI5MCwtMTU0Mzk5NDc4LDE2MTY3OTMzNzNdfQ==
+eyJoaXN0b3J5IjpbLTQwMDg2NzMyMiwtODUxMzg3MTM2LC0xNT
+U0ODA3NTc1LDQzNTY3MjkwLC0xNTQzOTk0NzgsMTYxNjc5MzM3
+M119
 -->
